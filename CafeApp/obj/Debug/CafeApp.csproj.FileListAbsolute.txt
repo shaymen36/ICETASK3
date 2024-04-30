@@ -1,0 +1,5 @@
+C:\Users\lab_services_student\source\repos\CafeApp\obj\Debug\CafeApp.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\source\repos\CafeApp\obj\Debug\CafeApp.MainForm.resources
+C:\Users\lab_services_student\source\repos\CafeApp\obj\Debug\CafeApp.Properties.Resources.resources
+C:\Users\lab_services_student\source\repos\CafeApp\obj\Debug\CafeApp.csproj.GenerateResource.cache
+C:\Users\lab_services_student\source\repos\CafeApp\obj\Debug\CafeApp.csproj.CoreCompileInputs.cache
